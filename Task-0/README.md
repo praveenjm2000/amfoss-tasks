@@ -1,0 +1,1 @@
+Successfully installed Ubuntu. I installed ubuntu 18.04 by dual-booting with windows. I also created a blog on instuctions to install Ubuntu on a windows system : [How to install Ubuntu](https://dev.to/praveenjm2000/making-it-simple-dual-booting-ubuntu-with-windows-10-for-absolute-biginners-2faj)
