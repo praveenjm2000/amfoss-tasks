@@ -13,7 +13,7 @@ This is my repository of my amFOSS tasks
 
 
 The task were truly challenging and interesting and spent a good time solving it.
-I did only upto task 2 due to limited time as i joined the group late. 
+I did only upto task 2 due to limited time as I joined the group late. 
 
 
 
@@ -22,4 +22,5 @@ I did only upto task 2 due to limited time as i joined the group late.
 I am a CSE student at Amrita School of Engineering,
 I come from Haripad, Kerala
 I completed upto my 12th grade at Amrita Vidyalayam, Haripad
-I am pretty interested in coding and I am ready to learn new stuff.
+I am pretty interested in coding and I never know how the time flies when I am solving a problem !!
+Also, I am ready to learn new stuff.
