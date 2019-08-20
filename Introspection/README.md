@@ -2,7 +2,7 @@
 
 
 #### Why should you choose me?
-I am very intersted in coding since I started doing the same. 
+I am very intersted in coding since I started doing the same. I am willing to spent all my energy for the club and have the mind to do all the hardword that would be needed for it.
 
 
 #### Changes before and after joining the collage
