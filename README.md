@@ -14,7 +14,8 @@ This is my repository of my amFOSS tasks
 |  |  |
 
 
-The task were truly challenging and interesting and spent a good time solving it.
+The tasks were truly challenging and interesting and spent a good time solving it.
+They helped me to show the diversity of the subject and increase my interest in it.
 
 
 
