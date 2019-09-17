@@ -23,6 +23,6 @@ They helped me to show the diversity of the subject and increase my interest in 
 
 I am a CSE student at Amrita School of Engineering,
 I come from Haripad, Kerala
-I completed upto my 12th grade at Amrita Vidyalayam, Haripad
+I completed upto my 12th grade at Amrita Vidyalayam, Haripad.
 I am pretty interested in coding and I never know how the time flies when I am solving a problem !!
 Also, I am ready to learn new stuff.
